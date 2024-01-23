@@ -1,0 +1,25 @@
+##############################
+## Java
+##############################
+.mtj.tmp/
+javadoc/
+allure-results/
+*.class
+*.jar
+*.png
+
+##############################
+## Gradle
+##############################
+.gradle/
+target/
+build/
+gradle/
+gradlew
+gradlew.bat
+.DS_Store
+
+##############################
+## IntelliJ
+##############################
+.idea/
