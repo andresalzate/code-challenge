@@ -6,7 +6,7 @@ import java.util.Arrays;
 import java.util.Collections;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
 
         System.out.println("/**********************Reto de números primos****************************/");
         for(int i = 0; i<=100; i++)

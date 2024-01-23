@@ -11,7 +11,7 @@
     <modules>
         <module>api-challenge</module>
         <module>e2e-challenge</module>
-        <module>logic-challengge</module>
+        <module>logic-challenge</module>
     </modules>
 
     <properties>
